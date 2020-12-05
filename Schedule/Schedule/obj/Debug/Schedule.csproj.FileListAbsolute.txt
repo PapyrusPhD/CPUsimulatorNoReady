@@ -1,0 +1,10 @@
+C:\Users\Fornillos\source\repos\Schedule\Schedule\bin\Debug\Schedule.exe.config
+C:\Users\Fornillos\source\repos\Schedule\Schedule\bin\Debug\Schedule.exe
+C:\Users\Fornillos\source\repos\Schedule\Schedule\bin\Debug\Schedule.pdb
+C:\Users\Fornillos\source\repos\Schedule\Schedule\obj\Debug\Schedule.csprojAssemblyReference.cache
+C:\Users\Fornillos\source\repos\Schedule\Schedule\obj\Debug\Schedule.Homepage.resources
+C:\Users\Fornillos\source\repos\Schedule\Schedule\obj\Debug\Schedule.Properties.Resources.resources
+C:\Users\Fornillos\source\repos\Schedule\Schedule\obj\Debug\Schedule.csproj.GenerateResource.cache
+C:\Users\Fornillos\source\repos\Schedule\Schedule\obj\Debug\Schedule.csproj.CoreCompileInputs.cache
+C:\Users\Fornillos\source\repos\Schedule\Schedule\obj\Debug\Schedule.exe
+C:\Users\Fornillos\source\repos\Schedule\Schedule\obj\Debug\Schedule.pdb
